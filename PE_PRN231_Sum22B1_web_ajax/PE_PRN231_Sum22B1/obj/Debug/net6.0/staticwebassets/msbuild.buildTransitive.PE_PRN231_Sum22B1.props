@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PE_PRN231_Sum22B1.props" />
+</Project>

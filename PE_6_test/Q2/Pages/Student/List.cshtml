@@ -1,0 +1,52 @@
+﻿@page
+@using Q2.DTOs
+
+@model Q2.Pages.Student.ListModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    var listStudents = ViewData["students"] as List<StudentDTO>;
+    var s_id = (int?) ViewData["ids"];
+
+}
+
+<h1>Search by id</h1>
+<form method="post">
+    Id: <input type="text" name="id_s" value=@s_id />
+    <input type="submit" value="Search"/>
+</form>
+
+<form method="post" asp-page-handler="ByDate">
+    Id: <input type="text" name="dob"  />
+    <input type="submit" value="Search By Date" />
+</form>
+
+
+
+<h1>List of Students</h1>
+
+<table border="1">
+    <thead>
+        <th>StudentsId</th>
+        <th>FullName</th>
+        <th>LecturerName</th>
+        <th>Dob</th>
+        <th>Gender</th>
+        <th>Action</th>
+    </thead>
+    <tbody>
+        @foreach(var s in listStudents)
+        {
+            <tr>
+                <td>@s.Id</td>
+                <td>@s.FullName</td>
+                <td>@s.LecturerName</td>
+                <td>@s.Dob</td>
+                <td>@s.Gender</td>
+                <td>
+                    <a href="/Student/Detail?id=@s.Id">Detail</a>
+                    <a href="/Student/List?id=@s.Id&handler=Delete">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,8 @@
+﻿@page
+@using Q2.DTOs
+@model Q2.Pages.Student.DetailModel
+@{
+    var stu = ViewData["student"] as StudentDetailDTO;
+}
+<h1>@stu.FullName</h1>
+<h2>@stu.CPA</h2>

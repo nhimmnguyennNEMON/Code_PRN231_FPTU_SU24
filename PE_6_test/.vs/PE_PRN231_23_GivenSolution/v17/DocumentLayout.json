@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prn231_1\\PE_PRN231_GivenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q2\\pages\\student\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|solutionrelative:q2\\pages\\student\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q2\\pages\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|solutionrelative:q2\\pages\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q2\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|solutionrelative:q2\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q2\\pages\\student\\detail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|solutionrelative:q2\\pages\\student\\detail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q2\\pages\\student\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|solutionrelative:q2\\pages\\student\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q2\\dtos\\studentdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|solutionrelative:q2\\dtos\\studentdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q2\\q2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|solutionrelative:q2\\q2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CFE5EC-381C-4389-AC0D-41C9DBA28AB2}|Q2\\Q2.csproj|solutionrelative:q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q1\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q1\\q1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\q1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q1\\models\\duongpv14_prncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\models\\duongpv14_prncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|d:\\prn231_1\\pe_prn231_givensolution\\q1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDetailDTO.cs",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\DTOs\\StudentDetailDTO.cs",
+              "RelativeDocumentMoniker": "Q2\\DTOs\\StudentDetailDTO.cs",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\DTOs\\StudentDetailDTO.cs",
+              "RelativeToolTip": "Q2\\DTOs\\StudentDetailDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:24:42.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detail.cshtml.cs",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\Pages\\Student\\Detail.cshtml.cs",
+              "RelativeDocumentMoniker": "Q2\\Pages\\Student\\Detail.cshtml.cs",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\Pages\\Student\\Detail.cshtml.cs",
+              "RelativeToolTip": "Q2\\Pages\\Student\\Detail.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:23:42.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\Pages\\Student\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Q2\\Pages\\Student\\Detail.cshtml",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\Pages\\Student\\Detail.cshtml",
+              "RelativeToolTip": "Q2\\Pages\\Student\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T07:23:39.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Q2\\DTOs\\StudentDTO.cs",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "Q2\\DTOs\\StudentDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:16:40.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\Pages\\Student\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "Q2\\Pages\\Student\\List.cshtml.cs",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\Pages\\Student\\List.cshtml.cs",
+              "RelativeToolTip": "Q2\\Pages\\Student\\List.cshtml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:13:53.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\Pages\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "Q2\\Pages\\Student\\List.cshtml",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\Pages\\Student\\List.cshtml",
+              "RelativeToolTip": "Q2\\Pages\\Student\\List.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T07:13:47.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Q2.csproj",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\Q2.csproj",
+              "RelativeDocumentMoniker": "Q2\\Q2.csproj",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\Q2.csproj",
+              "RelativeToolTip": "Q2\\Q2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T07:12:23.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Q1\\DTOs\\StudentDTO.cs",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "Q1\\DTOs\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:07:06.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Q1\\Models\\Student.cs",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\Models\\Student.cs",
+              "RelativeToolTip": "Q1\\Models\\Student.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:59:15.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Q1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Q1\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA3wBUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:46:03.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Q1.csproj",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\Q1.csproj",
+              "RelativeDocumentMoniker": "Q1\\Q1.csproj",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\Q1.csproj",
+              "RelativeToolTip": "Q1\\Q1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T06:45:27.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DUONGPV14_PRNContext.cs",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\Models\\DUONGPV14_PRNContext.cs",
+              "RelativeDocumentMoniker": "Q1\\Models\\DUONGPV14_PRNContext.cs",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\Models\\DUONGPV14_PRNContext.cs",
+              "RelativeToolTip": "Q1\\Models\\DUONGPV14_PRNContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:42:26.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\appsettings.json",
+              "RelativeDocumentMoniker": "Q1\\appsettings.json",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\appsettings.json",
+              "RelativeToolTip": "Q1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T06:39:45.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Q1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Q1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T06:38:35.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Q2\\Program.cs",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q2\\Program.cs",
+              "RelativeToolTip": "Q2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:43:42.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Q1\\Program.cs",
+              "ToolTip": "D:\\prn231_1\\PE_PRN231_GivenSolution\\Q1\\Program.cs",
+              "RelativeToolTip": "Q1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:43:38.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
